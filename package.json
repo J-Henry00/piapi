@@ -1,0 +1,40 @@
+{
+  "name": "piapi",
+  "version": "1.0.0",
+  "description": "piAPI is API server for displaying Raspberry PI system information",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Henry00/piapi.git"
+  },
+  "keywords": [
+    "pi",
+    "api",
+    "piapi",
+    "raspberry",
+    "raspberrypi",
+    "node",
+    "nodejs",
+    "js",
+    "javascript",
+    "express"
+  ],
+  "author": "J-Henry00",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J-Henry00/piapi/issues"
+  },
+  "homepage": "https://github.com/J-Henry00/piapi#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "os": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
