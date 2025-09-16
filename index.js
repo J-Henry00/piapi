@@ -70,16 +70,14 @@ app.get('/resources', async (_req, res) => {
         gigaBytes: Math.floor(os.freemem() / 1_000_000_000),
         formattedMB: `${Math.floor(os.freemem() / 1_000_000)} / ${Math.floor(
           os.totalmem() / 1_000_000
-        )} (${
-          Math.floor(os.freemem() / 1_000_000) /
-          Math.floor(os.totalmem() / 1_000_0)
-        } %)`,
+        )} MB (${Math.floor(
+          (Math.floor(os.freemem()) / Math.floor(os.totalmem())) * 100
+        )} %)`,
         formattedGB: `${Math.floor(
           os.freemem() / 1_000_000_000
-        )} / ${Math.floor(os.totalmem() / 1_000_000_000)} (${
-          Math.floor(os.freemem() / 1_000_000_000) /
-          Math.floor(os.totalmem() / 1_000_000_0)
-        } %)`,
+        )} / ${Math.floor(os.totalmem() / 1_000_000_000)} GB (${Math.floor(
+          (Math.floor(os.freemem()) / Math.floor(os.totalmem())) * 100
+        )} %)`,
       },
       full: {
         bytes: os.totalmem() - os.freemem(),
@@ -88,16 +86,18 @@ app.get('/resources', async (_req, res) => {
         gigaBytes: Math.floor((os.totalmem() - os.freemem()) / 1_000_000_000),
         formattedMB: `${Math.floor(
           (os.totalmem() - os.freemem()) / 1_000_000
-        )} / ${Math.floor(os.totalmem() / 1_000_000)} (${
-          Math.floor((os.totalmem() - os.freemem()) / 1_000_000) /
-          Math.floor(os.freemem() / 1_000_0)
-        } %)`,
+        )} / ${Math.floor(os.totalmem() / 1_000_000)} MB (${Math.floor(
+          (Math.floor(os.totalmem() - os.freemem()) /
+            Math.floor(os.freemem())) *
+            100
+        )} %)`,
         formattedGB: `${Math.floor(
           (os.totalmem() - os.freemem()) / 1_000_000_000
-        )} / ${Math.floor(os.totalmem() / 1_000_000_000)} (${
-          Math.floor((os.totalmem() - os.freemem()) / 1_000_000_000) /
-          Math.floor(os.freemem() / 1_000_000_0)
-        } %)`,
+        )} / ${Math.floor(os.totalmem() / 1_000_000_000)} GB (${Math.floor(
+          (Math.floor(os.totalmem() - os.freemem()) /
+            Math.floor(os.freemem())) *
+            100
+        )} %)`,
       },
     },
   };
