@@ -3,3 +3,7 @@ GET http://127.0.0.1:9001/sysinfo
 ###
 
 GET http://127.0.0.1:9001/resources
+
+###
+
+GET http://127.0.0.1:9001/services
