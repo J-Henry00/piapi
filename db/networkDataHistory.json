@@ -1,0 +1,422 @@
+[
+  {
+    "timestamp": "17:43",
+    "rx_bytes": 22102461862,
+    "tx_bytes": 13671008285,
+    "latency": "7.167",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:44",
+    "rx_bytes": 22103185136,
+    "tx_bytes": 13671526747,
+    "latency": "6.449",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:45",
+    "rx_bytes": 22103942395,
+    "tx_bytes": 13672083184,
+    "latency": "5.754",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:46",
+    "rx_bytes": 22104735404,
+    "tx_bytes": 13672675501,
+    "latency": "9.713",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:47",
+    "rx_bytes": 22105376593,
+    "tx_bytes": 13673139608,
+    "latency": "6.472",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:48",
+    "rx_bytes": 22106120820,
+    "tx_bytes": 13673688713,
+    "latency": "6.137",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:49",
+    "rx_bytes": 22106759439,
+    "tx_bytes": 13674158110,
+    "latency": "8.960",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:50",
+    "rx_bytes": 22107437228,
+    "tx_bytes": 13674657075,
+    "latency": "13.105",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:51",
+    "rx_bytes": 22108083526,
+    "tx_bytes": 13675127800,
+    "latency": "6.927",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:52",
+    "rx_bytes": 22108337776,
+    "tx_bytes": 13675323891,
+    "latency": "6.049",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:53",
+    "rx_bytes": 22108378222,
+    "tx_bytes": 13675361978,
+    "latency": "6.143",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:54",
+    "rx_bytes": 22108412770,
+    "tx_bytes": 13675399494,
+    "latency": "5.742",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:55",
+    "rx_bytes": 22108456768,
+    "tx_bytes": 13675439121,
+    "latency": "7.747",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:56",
+    "rx_bytes": 22108493616,
+    "tx_bytes": 13675480221,
+    "latency": "5.821",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:57",
+    "rx_bytes": 22108537474,
+    "tx_bytes": 13675520095,
+    "latency": "7.923",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "17:59",
+    "rx_bytes": 794234,
+    "tx_bytes": 123401,
+    "latency": "6.050",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:00",
+    "rx_bytes": 12828740,
+    "tx_bytes": 380998,
+    "latency": "5.913",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:01",
+    "rx_bytes": 12878665,
+    "tx_bytes": 410252,
+    "latency": "6.068",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:02",
+    "rx_bytes": 12923354,
+    "tx_bytes": 441806,
+    "latency": "5.671",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:03",
+    "rx_bytes": 12966510,
+    "tx_bytes": 475431,
+    "latency": "5.812",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:04",
+    "rx_bytes": 13030851,
+    "tx_bytes": 514504,
+    "latency": "5.668",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:05",
+    "rx_bytes": 13075020,
+    "tx_bytes": 546144,
+    "latency": "5.891",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:06",
+    "rx_bytes": 13126961,
+    "tx_bytes": 577672,
+    "latency": "5.894",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:07",
+    "rx_bytes": 13159102,
+    "tx_bytes": 611346,
+    "latency": "5.688",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:08",
+    "rx_bytes": 13195532,
+    "tx_bytes": 644517,
+    "latency": "5.790",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:09",
+    "rx_bytes": 13230901,
+    "tx_bytes": 683142,
+    "latency": "6.364",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:10",
+    "rx_bytes": 13284258,
+    "tx_bytes": 716296,
+    "latency": "6.379",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:11",
+    "rx_bytes": 13327004,
+    "tx_bytes": 759573,
+    "latency": "5.828",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:12",
+    "rx_bytes": 13362936,
+    "tx_bytes": 793586,
+    "latency": "5.762",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:13",
+    "rx_bytes": 13946273,
+    "tx_bytes": 1225555,
+    "latency": "14.691",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:14",
+    "rx_bytes": 14707840,
+    "tx_bytes": 1786584,
+    "latency": "6.248",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:15",
+    "rx_bytes": 15434629,
+    "tx_bytes": 2315897,
+    "latency": "6.069",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:16",
+    "rx_bytes": 16176654,
+    "tx_bytes": 2855795,
+    "latency": "6.065",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:17",
+    "rx_bytes": 16921428,
+    "tx_bytes": 3400831,
+    "latency": "5.707",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:18",
+    "rx_bytes": 17689157,
+    "tx_bytes": 3958977,
+    "latency": "49.753",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:19",
+    "rx_bytes": 18404002,
+    "tx_bytes": 4482083,
+    "latency": "6.037",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:20",
+    "rx_bytes": 19102092,
+    "tx_bytes": 4985010,
+    "latency": "6.447",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:21",
+    "rx_bytes": 19793454,
+    "tx_bytes": 5480883,
+    "latency": "5.909",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:22",
+    "rx_bytes": 20414130,
+    "tx_bytes": 5930506,
+    "latency": "unknown",
+    "packet_loss": 100
+  },
+  {
+    "timestamp": "18:23",
+    "rx_bytes": 20758671,
+    "tx_bytes": 6558027,
+    "latency": "6.441",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:24",
+    "rx_bytes": 21518686,
+    "tx_bytes": 7398555,
+    "latency": "15.418",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:25",
+    "rx_bytes": 22676790,
+    "tx_bytes": 9912525,
+    "latency": "6.047",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:26",
+    "rx_bytes": 23888162,
+    "tx_bytes": 12725413,
+    "latency": "5.844",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:27",
+    "rx_bytes": 24744012,
+    "tx_bytes": 13394905,
+    "latency": "7.348",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:28",
+    "rx_bytes": 25673541,
+    "tx_bytes": 14204315,
+    "latency": "5.747",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:29",
+    "rx_bytes": 26602491,
+    "tx_bytes": 15060878,
+    "latency": "8.138",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:30",
+    "rx_bytes": 27550358,
+    "tx_bytes": 15910079,
+    "latency": "5.967",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:31",
+    "rx_bytes": 28507165,
+    "tx_bytes": 16860516,
+    "latency": "15.458",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:32",
+    "rx_bytes": 29372029,
+    "tx_bytes": 17701416,
+    "latency": "5.942",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:33",
+    "rx_bytes": 30217418,
+    "tx_bytes": 18481955,
+    "latency": "7.474",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:34",
+    "rx_bytes": 30389984,
+    "tx_bytes": 18672589,
+    "latency": "6.481",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:35",
+    "rx_bytes": 30573886,
+    "tx_bytes": 19515845,
+    "latency": "6.914",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:36",
+    "rx_bytes": 30756234,
+    "tx_bytes": 19722069,
+    "latency": "6.243",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:36",
+    "rx_bytes": 30780625,
+    "tx_bytes": 19743836,
+    "latency": "5.862",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:37",
+    "rx_bytes": 30990257,
+    "tx_bytes": 19937361,
+    "latency": "6.750",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:37",
+    "rx_bytes": 31188875,
+    "tx_bytes": 20292313,
+    "latency": "5.832",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:39",
+    "rx_bytes": 937901,
+    "tx_bytes": 141744,
+    "latency": "30.745",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:40",
+    "rx_bytes": 1677571,
+    "tx_bytes": 2899435,
+    "latency": "5.687",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:41",
+    "rx_bytes": 2414912,
+    "tx_bytes": 3664488,
+    "latency": "6.906",
+    "packet_loss": 0
+  },
+  {
+    "timestamp": "18:41",
+    "rx_bytes": 2816141,
+    "tx_bytes": 3986549,
+    "latency": "7.356",
+    "packet_loss": 0
+  }
+]
